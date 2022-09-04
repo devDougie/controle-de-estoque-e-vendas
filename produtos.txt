@@ -1,0 +1,1 @@
+codigo: 1 nome: bala valor: 0,25 estoque: 350codigo: 2 nome: chiclete valor: 1,50 estoque: 200codigo: 3 nome: pirulito valor: 1,00 estoque: 150codigo: 4 nome: bombom valor: 2,00 estoque: 50codigo: 5 nome: pacoca valor: 2,00 estoque: 50codigo: 6 nome: torrone valor: 3,50 estoque: 25codigo: 7 nome: barra chocolate valor: 5,50 estoque: 10
